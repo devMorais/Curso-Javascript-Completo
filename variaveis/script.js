@@ -1,11 +1,15 @@
-var nome = "Fernando";
+//Exercicios:
+
+// Declarar uma variável com o seu nome
+var nome = "Fernando Aguiar";
+// Declarar uma variável com a sua idade
 var idade = 31;
-var possuiFaculdade = true;
+// Declarar uma variável com a sua comida
+// favorita e não atribuir valor
+var comidafavorita;
+// Atribuir valor a sua comida favorita
+comidafavorita = "Arroz com feijão";
+// Declarar 5 variáveis diferentes sem valores
+var time, pais, cidade, id, model;
 
-console.log(nome, idade, possuiFaculdade);
-
-var preco = 25;
-var totalComprado = 5;
-var precoTotal = totalComprado * preco;
-
-console.log(precoTotal);
+console.log(nome, idade, comidafavorita);
